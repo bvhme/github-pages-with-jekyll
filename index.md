@@ -1,3 +1,3 @@
-# Welcome to my blog
+# These GitHub courses!
 
 I'm glad you are here. I plan to talk about ...
